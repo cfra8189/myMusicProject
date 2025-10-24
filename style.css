@@ -11,7 +11,7 @@ body {
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
-  border: 1px solid #ccc;
+  border: 1px solid lightgrey;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
@@ -20,7 +20,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: grey;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -29,11 +29,11 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: grey;
 }
 
 .container {
-  border: 2px solid #ccc;
+  border: 2px solid lightgrey;
   background-color: #eee;
   border-radius: 5px;
   padding: 16px;
